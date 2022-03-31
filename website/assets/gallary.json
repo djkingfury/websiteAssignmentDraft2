@@ -1,0 +1,37 @@
+[{
+        "url": "img/laptopWithHtmlCode.jpg",
+        "caption": "Website Development"
+    },
+    {
+        "url": "img/javaProgrammer.jpg",
+        "caption": "Java Development"
+    },
+    {
+        "url": "img/streaming.jpg",
+        "caption": "Streaming"
+    },
+    {
+        "url": "img/CompetitiveGaming.jpg",
+        "caption": "Competitive Gaming"
+    },
+    {
+        "url": "img/javaProgrammer2.jpg",
+        "caption": "Java development"
+    },
+    {
+        "url": "img/UnityGameDevelopment.jpg",
+        "caption": "Game development"
+    },
+    {
+        "url": "img/CollaborativeWork.jpg",
+        "caption": "Team working"
+    },
+    {
+        "url": "img/rpi.jpg",
+        "caption": "Raspberry pi development"
+    },
+    {
+        "url": "img/Youtube.jpg",
+        "caption": "youtube Creation"
+    }
+]
